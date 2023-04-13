@@ -46,11 +46,11 @@ else:
     M5 = None
 
 
-ONE_WORDS = ["TERI", "MAA", "KI", "CHUT", "AJA", "TERI", "MAA", "KI", "CHUT", "FAAD", "DUNGA", "HIJDE", "TERA", "BAAP",
-           "HU", "KIDXX", "SPEED", "PAKAD", "BHEN KE LAUDE", "AA BETA", "AAGYA", "TERI", "MAA ", "CHODNE",
-           "AB", "TERI ", "MAA", "CHUDEGI", "KUTTE", "KI", "TARAH", "BETA", "TERI", "MAA", "KE", "BHOSDE",
-           "ME", "JBL", "KE", "SPEAKER", "DAAL", "KAR", "BASS", "BOOSTED", "SONG", "SUNUNGA", "PURI",
-           "RAAT", "LAGATAR", "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", "TERI", "MAA", "KE", "BOOBS",
+ONE_WORDS = ["TERI", "MAA", "KO", "CHHODU", "RANDII", "KEE", "TERI", "MAA", "KA", "LAND", "BSDK", "RAMDII", "TERA", "BAAP",
+           "HU", "KID", "SPEED", "DEKH", "RANDII", "TERII", "MAA", "KA", "BUR ", "FADUU",
+           "RANDII", "TERI ", "MAA", "KI", "KALI", "CHUT", "ME", "MERA", "LAND", "RANDII", "KE", "BETICHOOD",
+           "TERI", "MAA", "RANDII", "TERE", "MAAA", "KO", "BINA", "CONDOM", "KE", "CHODUNGAAA", "PURI",
+           "RAAT", "RAMDII", "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", "TERI", "MAA", "KE", "BOOBS",
            "DABAUNGA","XXX","TERI","MAA","KAA","CHUT","MARU","RANDI","KEE","PILEE","TERI","MAA","KAA","BHOSDAA",
            "MARU","SUAR","KEE","CHODE","TERI","MAAA","KEEE","NUDES","BECHUNGA","RANDI","KEE","PILLE","TERI","MAAA",
            "CHODU","SUAR","KEEE","PILEE","TERIII","MAAA","DAILYY","CHUDTTI","HAII","MADHARCHOD","AUKAT","BANAA",

@@ -107,7 +107,7 @@ async def restart(_, __):
 # ADDING HANDLERS
 
 if M1:
-    M1.add_handler(MessageHandler(pyrone, filters.command(["T3RI", "L0L", "AJA", "AAJA", "START"], prefixes=None) & filters.me))
+    M1.add_handler(MessageHandler(pyrone, filters.command(["T3RI", "L0L", "AJA", "AAJA", "Aaaaa"], prefixes=None) & filters.me))
     M1.add_handler(MessageHandler(restart, filters.command(["XD", "FARAR", "STOP", "FUCKED"], prefixes=None) & filters.me))
 
 if M2:

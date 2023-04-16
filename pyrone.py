@@ -46,7 +46,7 @@ else:
     M5 = None
 
 
-ONE_WORDS = ["TERI", "MAA", "KO", "CHHODU", "RANDII", "KEE", "TERI", "MAA", "KA", "LAND", "BSDK", "RAMDII", "TERA", "BAAP",
+ONE_WORDS = ["VAi", "TERI", "MAAA", "KO", "CHODU", "RANDII", "K", "BACHEE", "SAALE", "BETICHOOD", "RANDII", "TEEI", "MAAA", "RANDIII", "H", "TU", "RANDII", "H", "BSDK", "SAALE", "RANDI", "BHENCHOOD", "TEEI", "MAAA", "LAND", "SPPED", "DEKH", "LE", "RANDIII", "K", "AULAD", "BSDK", "MADHCHOOD", "MC", "BC", "TEEI", "BHEN", "KA", "RAPE", "KEU", "TEEI", "BHEN", "KO", "CHODU", "RANDIIII", "SALA", "TERI", "MAA", "KO", "CHHODU", "RANDII", "KEE", "TERI", "MAA", "KA", "LAND", "BSDK", "RAMDII", "TERA", "BAAP",
            "HU", "KID", "SPEED", "DEKH", "RANDII", "TERII", "MAA", "KA", "BUR ", "FADUU",
            "RANDII", "TERI ", "MAA", "KI", "KALI", "CHUT", "ME", "MERA", "LAND", "RANDII", "KE", "BETICHOOD",
            "TERI", "MAA", "RANDII", "TERE", "MAAA", "KO", "BINA", "CONDOM", "KE", "CHODUNGAAA", "PURI",
